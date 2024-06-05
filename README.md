@@ -1,1 +1,2 @@
-# Pengklasifikasi-Iris
+# IrissClassfier
+Praktikum Machine Learning
